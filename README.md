@@ -44,7 +44,7 @@ The dataset contains **10,000 rows** and includes detailed information about:
    - ROC AUC, PR AUC
 5. Model explainability via SHAP
 
-## 📁 File Structure (Suggested)
+## 📁 File Structure
 
 ```
 fraud-detection-insurance/
@@ -70,4 +70,4 @@ fraud-detection-insurance/
 
 ## 👤 Author
 
-Generated with ❤️ by [ChatGPT + User]
+Generated with ❤️ by Tugba
